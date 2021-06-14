@@ -27,5 +27,5 @@
   <button class="custom-btn btn-15">Read More</button>
   <button class="custom-btn btn-16">Read More</button>
   <p style="font-family: Andale Mono, monospace;">
-    AMAN.DESIGNING</p>
+    AMAN DESIGNING THIS</p>
 </div>
