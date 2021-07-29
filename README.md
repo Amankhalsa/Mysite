@@ -5,5 +5,5 @@
 
 # Django project
 
-*  <a href="https://github.com/Amankhalsa/intro_python/tree/main/mywebsite">Django Project </a>
+*  <a href="https://github.com/Amankhalsa/intro_python">Django Project </a>
 
